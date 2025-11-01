@@ -1,4 +1,5 @@
-[
+{
+  "data_spareparts":[
   {
     "id_produk": "OLI-001",
     "nama": "Shell Advance AX7 Scooter 0.8L 10W-30",
@@ -550,3 +551,4 @@
     "sumber": "https://shopanddrive.co.id"
   }
 ]
+}
