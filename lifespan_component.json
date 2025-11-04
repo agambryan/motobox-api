@@ -1,0 +1,219 @@
+{
+  "categories": {
+    "matic": {
+      "category_name": "Matic",
+      "components": [
+        {
+          "name": "Oli Mesin",
+          "lifespan_default": { "km": 2500, "time_months": 3 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Oli Gardan",
+          "lifespan_default": { "km": 9000, "time_months": 6 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Filter Oli",
+          "lifespan_default": { "km": 7000, "time_months": 6 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Busi",
+          "lifespan_default": { "km": 10000, "time_months": 12 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Filter Udara",
+          "lifespan_default": { "km": 12000, "time_months": 12 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Kampas Rem Depan",
+          "lifespan_default": { "km": 12000, "time_months": 12 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Kampas Rem Belakang",
+          "lifespan_default": { "km": 18000, "time_months": 18 },
+          "lifespan_user": null
+        },
+        {
+          "name": "V-Belt",
+          "lifespan_default": { "km": 20000, "time_months": 24 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Aki",
+          "lifespan_default": { "km": null, "time_months": 24 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Ban",
+          "lifespan_default": { "km": 18000, "time_months": 30 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Shockbreaker / Suspensi",
+          "lifespan_default": { "km": 30000, "time_months": 36 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Cairan Rem",
+          "lifespan_default": { "km": null, "time_months": 18 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Radiator Coolant",
+          "lifespan_default": { "km": 20000, "time_months": 24 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Filter Bensin",
+          "lifespan_default": { "km": 25000, "time_months": 24 },
+          "lifespan_user": null
+        }
+      ]
+    },
+    "bebek": {
+      "category_name": "Bebek",
+      "components": [
+        {
+          "name": "Oli Mesin",
+          "lifespan_default": { "km": 3000, "time_months": 3 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Filter Oli",
+          "lifespan_default": { "km": 6000, "time_months": 6 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Busi",
+          "lifespan_default": { "km": 12000, "time_months": 12 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Filter Udara",
+          "lifespan_default": { "km": 15000, "time_months": 12 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Kampas Rem Depan",
+          "lifespan_default": { "km": 15000, "time_months": 12 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Kampas Rem Belakang",
+          "lifespan_default": { "km": 20000, "time_months": 18 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Rantai / Gir Set",
+          "lifespan_default": { "km": 20000, "time_months": 24 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Aki",
+          "lifespan_default": { "km": null, "time_months": 24 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Ban",
+          "lifespan_default": { "km": 20000, "time_months": 30 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Shockbreaker / Suspensi",
+          "lifespan_default": { "km": 35000, "time_months": 36 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Cairan Rem",
+          "lifespan_default": { "km": null, "time_months": 18 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Filter Bensin",
+          "lifespan_default": { "km": 25000, "time_months": 24 },
+          "lifespan_user": null
+        }
+      ]
+    },
+    "sport": {
+      "category_name": "Sport",
+      "components": [
+        {
+          "name": "Oli Mesin",
+          "lifespan_default": { "km": 2000, "time_months": 2 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Filter Oli",
+          "lifespan_default": { "km": 5000, "time_months": 6 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Busi",
+          "lifespan_default": { "km": 8000, "time_months": 12 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Filter Udara",
+          "lifespan_default": { "km": 10000, "time_months": 12 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Kampas Rem Depan",
+          "lifespan_default": { "km": 10000, "time_months": 12 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Kampas Rem Belakang",
+          "lifespan_default": { "km": 15000, "time_months": 18 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Rantai / Gir Set",
+          "lifespan_default": { "km": 15000, "time_months": 24 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Aki",
+          "lifespan_default": { "km": null, "time_months": 24 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Ban",
+          "lifespan_default": { "km": 15000, "time_months": 24 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Shockbreaker / Suspensi",
+          "lifespan_default": { "km": 30000, "time_months": 36 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Cairan Rem",
+          "lifespan_default": { "km": null, "time_months": 12 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Radiator Coolant",
+          "lifespan_default": { "km": 15000, "time_months": 18 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Filter Bensin",
+          "lifespan_default": { "km": 20000, "time_months": 24 },
+          "lifespan_user": null
+        },
+        {
+          "name": "Kampas Kopling",
+          "lifespan_default": { "km": 25000, "time_months": 24 },
+          "lifespan_user": null
+        }
+      ]
+    }
+  }
+}
